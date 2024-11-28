@@ -1,0 +1,39 @@
+CLASS 3 NOTES OF HTML :
+Road map of web mobile development in sir ghous repositery
+2 types of Tags :
+Those elements have no closing tag called self closing tag or empty tag <br/>
+attributes always in opening tag with the name and value => gives additional information (lang = "en-us")
+
+HTML PAGE STRUCTURE
+html => Parent Element 
+title element => This title shows at the page of top of url of the page
+head , body => Child Element of HTML
+head tag => meta tags tell the information about the page or document
+
+when you inline element shift with block element using <br/> Tag.
+
+2 Types of Element
+Block Level : Takes Full Width > Start with Next Line
+Inline Element : takes as content per size > Start with same line
+
+Visual Code Editors and views using notepad in old era.
+
+Semantic Markup => Some text elements not intended to affect the structure of your web page but they do add inforamtion to the pages -they are known as  semantic markup.
+give accesibility for screen readers => It is a software that read and listen and write the code ad using website through screen readers soaftware the website for blind peoples
+Accesibility for all peoples like visual , blind (replacement of some tags).
+
+Screen Reader Software
+
+1- Web Accesibiltiy Guidelines => (WCAG)
+2- Some thing view by yourself (like color , sizes etc.)
+3- Some use semantic markup => Strong tag used instead of bold => screen reader softaware read this tag for importance , em instead of i tag
+4- UI / UX 
+5- UX => User kai liye asan banana accesible banana
+
+=> blockquote cite = "url of website" reference to copy any para or poetry and it is help for SEO it indent a piece of text
+=> abbr , accr => abbr title = "SMIT" => Knows all peole whic instituation and you hover the SMIT it shows a title
+=> cite = refernce of any newspaper , book or dfn tag used for reasearch any thing
+=> address => email , phone physical address
+=> dfn => fullfilment odf complete sentence term
+
+ASSIGNMENT OF CLASS 1 => Make CV in HTMLPage
