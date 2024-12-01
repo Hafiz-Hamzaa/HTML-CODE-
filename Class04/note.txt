@@ -14,6 +14,10 @@ Online Shop (Searh Google to see the structure) =>ghousahemd slides.com
 siblings ko ap direct unkai links se access krskte hai only write a name
 folder ko open kai liye folder ka name or forward slash
 html me back per jane kai liye ../ once time ../ second time
-
 How to Open Folder or Back to it => 2 Main things to follow the directory structure => This all are Linking to another page concept (Directory Structure)
 
+Access Siblings 
+Access Child 
+Access Grand Child 
+Access Child to Parent 
+Acess Grand Child to Grand Parent
