@@ -1,0 +1,19 @@
+CLASS 4 NOTES OF HTML
+List :
+3 types of list => nmber , bullets , definition list
+They have parent and child element
+dd => definition detail or description
+Inpect to see the code of html 
+To create nested list so make inside an <li> list
+Make list styling with CSS 
+
+Links: To naviagte page another page , website or part of a page through directory structure (Directory Structure) we have a root folder 
+Online Shop (Searh Google to see the structure) =>ghousahemd slides.com
+2 types of links => Relative URL , Absolute URL
+
+siblings ko ap direct unkai links se access krskte hai only write a name
+folder ko open kai liye folder ka name or forward slash
+html me back per jane kai liye ../ once time ../ second time
+
+How to Open Folder or Back to it => 2 Main things to follow the directory structure => This all are Linking to another page concept (Directory Structure)
+
