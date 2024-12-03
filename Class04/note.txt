@@ -16,6 +16,48 @@ folder ko open kai liye folder ka name or forward slash
 html me back per jane kai liye ../ once time ../ second time
 How to Open Folder or Back to it => 2 Main things to follow the directory structure => This all are Linking to another page concept (Directory Structure)
 
+
+Class 5 Notes of HTML
+website hoisting or deployment
+https://wa.me/+923193936892 => click and open my chat to conversation
+
+Steps to Deploy a Website (Only Drag a Folder wihout Github Code Published)
+Netlify => create an account => Go to Drop Netlify
+Login with Github 
+Add New Sites 
+Deployment Manually
+
+Deploys => if you edit change the code so follow this step
+Also changed the site Named
+
+Another Platform For Deployment "Surge"
+Steps:
+Install Node.JS
+npm i --global surge
+Open Folder your Project => cmd Surge 
+Make an account on cmd
+
+Learn Git and GitHub
+Git Advantages: 
+Git => tracking changes => aik aik changes aik aik history record krleta hai
+Git ko Cloud pe dale or ham github per published krdete hai
+Steps:
+Download Git => Download For Windows
+Github Desktop => Only Click Option
+Download Also This
+Home Screen => New Repositery
+Ap local Path degai aik uper ka
+.gitignore => in files ko ignore krna => node-modules
+liscenses => 2 Types of Liscnces
+What is OpenSource => publicily available hai + iscode ko apne kaam kai liye bhi use krskta hai
+Commit => Apkne ki chnages dekhata hai ye commit me
+Brances => main
+Go to Files => Options => Write FileName
+RevertedOption
+Publish Repo   
+  
+
+
 Access Siblings 
 Access Child 
 Access Grand Child 
