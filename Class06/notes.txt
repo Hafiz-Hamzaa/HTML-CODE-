@@ -1,0 +1,34 @@
+class 6 Notes of HTML:
+git assistant hai manage krta hai code ko or github per code ko store krta hai 
+Git : jo repo ka name ho wo path me nazar na ai 
+Jis folder me .git nazar ai to wo configure hoga 
+view => check hiddens
+Extension : Git Lens code krte waqt aik aik line ka pta hai isko kia commit kia kia history hogi code ki
+Code Green BTN : Download Zip kia to withou git code miljai global
+Open with Github Desktop kia To wapis CodeDownload hojai global
+Go with Settings => Collaborates option and invie people to Work with my code like read , write , admin 
+Feth and Pull se code me bhi readme bhi ajai gi
+Folder me jaker readme banale
+
+Ch : 5 Images
+Images => 2 tyoes of Images => Relative Url and Absolute Url alt when happen when the image is not loading so the alt is shown
+Jbpeg => High Quality
+Vector image => isme pixels nh paththe 
+Fully Transparent => Backgrounf nh hota
+HTML 5 Introduced : Figure and figureCaption => image description
+Image ka size theek nh hoga to load hone me time lage ga size itna zada hota hai
+Three Rules for creating Images
+Right Format : Give wrong fromat it takes long
+Save Images Right Size : same here
+Correct Resolution : No od dots per / inch = Resolution
+Jb bhi images save kre apne websites per hamesha 72 pixels per inch  save kre . Agr higher resolution per save kregai to it takes longer time
+
+Image Formats :
+=> JPEG : jb ye use kre jb image per different color ho mtlb bohat sare color ho
+=> PNG : same color ho image me zada tar use this Format
+
+Animated Gif or Transparent Gif used : gif with background color or transparent have no background color
+
+Vector Images : ye resolution independent hoti hai . ye images ap software se draw krte hai
+jitna bhi dimesnion increase kre to image ki quality per koi effect nh kre ga  
+
