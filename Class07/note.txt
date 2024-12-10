@@ -1,0 +1,39 @@
+Class 7 Notes of HTML
+Icons => Extension
+Tables : 
+table => Parent element 
+tr => row means line single row me multiple columns hote hai
+td => normal table data
+th => text bold krdega
+
+Properties :
+border => kitna thick rkhna hai
+width => 100%
+col span =>  2 colspan means 2 ki jaga leelga
+rowspan => same here
+
+Long Structured Table => th , tb ,tf
+cellspacing , cellpadding , bgcolor
+
+Email Templates => ye pore table per banai jate hai
+
+Freecodecamp => create an account
+Also gives certificate
+1- Responsive web design certificate (ye certicate lena hai apko)
+Internationally Organzed hai 
+
+
+Class 7 Forms :
+users collect data through forms
+Forms like input field
+Forms Controls :
+1- Text input => plain text
+2- Password => hide text
+3- Textarea => multiline text
+4- Making Choices => radio btn
+5- Check Box => multiple select option
+6- Drop down btn => same like radio btn
+7- Submiting Forms => submit forms
+8- Uploading Files
+
+
