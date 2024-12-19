@@ -1,0 +1,27 @@
+Class 08 Notes of HTML
+How Form Works : names of each form is sent to the server along with the value the user enters or select.
+Server process information using a language etc . Store information in a database.
+server create a page back to send
+
+Form get two things name and value attribute => apko label lgana hota hai ye name hai or ye value hai
+action => where data sent its a url its url is a server address
+method => server se data lene kai liye hota hai url me data show hota hai key=value pair me jo kai secure nh hota
+method => post > server per data bhejne kai liye hota hai or url me data show bhi nh hota e.g: form
+jo bhi ap input me likh rahai hai wo value me automatically save horha hota hai => value optional hai
+
+types
+.number
+.email
+.date
+.month
+.date-time
+.password
+.color
+.reset
+.search
+.week
+.tel
+.file
+.image
+.hidden => <input type="hidden"> ka istemal tab hota hai jab user ko koi data directly form mein nazar na aaye, lekin wo data form ke sath server par bhejna zaroori ho. Ye input field form ka part hoti hai, magar user interface (UI) par visible nahi hoti.
+disabled => user ko allow hi nh kre kai wo select kre
