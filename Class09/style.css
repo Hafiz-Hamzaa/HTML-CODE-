@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+} 
+h1{
+    color: white;
+    border-bottom:20px solid green ;
+    letter-spacing: 20px;
+    width: 30%;
+}
+#one{
+    border: none;
+}
