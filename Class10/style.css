@@ -1,0 +1,12 @@
+ul > li{
+    color:red
+}
+li a{
+    background-color: blue;
+}
+.head{
+   color: blue;
+}
+h1{
+    color: red !important;
+}

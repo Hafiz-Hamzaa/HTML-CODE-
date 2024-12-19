@@ -1,0 +1,29 @@
+Class 10 Notes of HTML
+id => unique attribute
+class => same name ki classes dekar same styling
+div => grouping elements
+span => inline element
+iframe , info about page meta keywords (in book learn)
+escape chracters like (copy right symbol)
+
+video , audio (attributes like src , controls , loop)
+
+CSS (Cascading Style Sheet)
+UI-UX => HTML , CSS se UI-UX Achaa banana
+Java Script se bhi CSS krskte hai
+
+CSS Rule :
+Har Element aik box hai
+Selector => Select the element to styling
+Type Selector => p{
+    color : blue;
+}
+
+Selector Types
+Child Class  Selector used most
+!important => higher priority
+
+inherit => jo iskai parent kai pas ho wo lelo
+color => hexcode , rgb , rgba , color
+Color Names => There are 147 Pre-defined colors that are recognized by browsers
+Hue , Hsl . Hsla
